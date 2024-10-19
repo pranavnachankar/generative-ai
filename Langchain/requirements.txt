@@ -1,3 +1,4 @@
+ipykernel
 python-dotenv
 langchain
 langchain-community
@@ -8,3 +9,15 @@ pymupdf
 wikipedia
 langchain-text-splitters
 lxml
+langchain-openai
+langchain-google-genai
+chromadb
+ollama
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+langchain_chroma
+beautifulsoup4
+colab-xterm
+langchain-groq
+langchain-core
